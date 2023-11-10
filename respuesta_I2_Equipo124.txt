@@ -10,3 +10,8 @@ el fork?
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
 
+a- Para actualizar mi repositorio al estado que esta el repositorio del que hice FORK, tengo que crear una pull request y fusionar el repositorio base con mi repositorio (merge).
+b- Si, puede si gamma actualiza el repositorio base y luego alfa tambien lo hace.
+c- Si, puede si alfa actualiza el repositorio base y luego gamma tambien lo hace.
+d- No, cuando hago edito algun dato, si los subo y los demas actualizan su repo, los datos persisten.
+
