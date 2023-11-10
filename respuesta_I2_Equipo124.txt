@@ -14,4 +14,9 @@ a- Para actualizar mi repositorio al estado que esta el repositorio del que hice
 b- Si, puede si gamma actualiza el repositorio base y luego alfa tambien lo hace.
 c- Si, puede si alfa actualiza el repositorio base y luego gamma tambien lo hace.
 d- No, cuando hago edito algun dato, si los subo y los demas actualizan su repo, los datos persisten.
+e- 
 
+ 
+ 
+ 
+ 
